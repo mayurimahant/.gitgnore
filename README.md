@@ -1,3 +1,3 @@
 # .gitgnore
 
-https://mayurimahant.github.io/.gitgnore/
+https://mayurimahant.Testvagrant Technologies.io/.gitgnore/
